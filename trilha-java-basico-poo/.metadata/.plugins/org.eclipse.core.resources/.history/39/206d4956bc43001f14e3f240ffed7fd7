@@ -1,0 +1,7 @@
+package impressorapoo;
+
+import equipamentos.digitalizadora.Digitalizadora;
+
+public class Scanner extends Digitalizadora {
+
+}

@@ -1,0 +1,22 @@
+package desafioiphone;
+
+import iphone.IPhone;
+
+public class Testes {
+	public static void main(String[] args) {
+		IPhone meuIphone = new IPhone();
+		
+		meuIphone.tocar();
+		meuIphone.pausar();
+		meuIphone.selecionarMusica("'Refazenda', de Gilberto Gil");
+		meuIphone.ligar("+55 11 95555-1234");
+		meuIphone.atender();
+		meuIphone.iniciarCorreioVoz();
+		meuIphone.exibirPagina("http://www.google.com.br/");
+		meuIphone.adicionarNovaAba();
+		meuIphone.atualizarPagina();
+
+		
+	}
+
+}

@@ -1,0 +1,6 @@
+package messenger;
+
+//Herança
+public class Telegram extends ServicoMensagemInstantanea {
+
+}

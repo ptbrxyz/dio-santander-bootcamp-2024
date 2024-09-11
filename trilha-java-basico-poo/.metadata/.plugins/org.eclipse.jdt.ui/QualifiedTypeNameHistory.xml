@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="carropoo.Carro"/>
+    <fullyQualifiedTypeName name="carropoo.Moto"/>
+    <fullyQualifiedTypeName name="impressorapoo.Impressora"/>
+    <fullyQualifiedTypeName name="impressorapoo.Copiadora"/>
+    <fullyQualifiedTypeName name="impressorapoo.Digitalizadora"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="equipamentos.impressora.LaserJet"/>
+    <fullyQualifiedTypeName name="equipamentos.multifuncional.EquipamentoMultifuncional"/>
+    <fullyQualifiedTypeName name="equipamentos.impressora.Impressora"/>
+    <fullyQualifiedTypeName name="equipamentos.digitalizadora.Digitalizadora"/>
+    <fullyQualifiedTypeName name="equipamentos.copiadora.Copiadora"/>
+    <fullyQualifiedTypeName name="equipamentos.impressora.DeskJet"/>
+    <fullyQualifiedTypeName name="java.lang.Readable"/>
+    <fullyQualifiedTypeName name="desafioiphone.ReprodutorMusical"/>
+    <fullyQualifiedTypeName name="desafioiphone.AparelhoTelefonico"/>
+    <fullyQualifiedTypeName name="desafioiphone.NavegadorInternet"/>
+    <fullyQualifiedTypeName name="iphone.IPhone"/>
+    <fullyQualifiedTypeName name="funcionalidades.ReprodutorMusical"/>
+    <fullyQualifiedTypeName name="funcionalidades.AparelhoTelefonico"/>
+    <fullyQualifiedTypeName name="funcionalidades.NavegadorInternet"/>
+</qualifiedTypeNameHistroy>

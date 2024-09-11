@@ -1,0 +1,6 @@
+package impressorapoo;
+
+
+public class Scanner implements Digitalizadora {
+
+}

@@ -1,0 +1,7 @@
+package impressorapoo;
+
+import impressora.Impressora;
+
+public class LaserJet extends Impressora{
+
+}

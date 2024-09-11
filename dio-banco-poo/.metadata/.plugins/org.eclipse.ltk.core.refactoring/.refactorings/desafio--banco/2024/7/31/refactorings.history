@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;protected void imprimirInfosComuns()&apos; from &apos;com.banco.ContaCorrente.imprimirExtrato()&apos; to &apos;com.banco.ContaCorrente&apos;&#x0A;- Original project: &apos;desafio--banco&apos;&#x0A;- Method name: &apos;imprimirInfosComuns&apos;&#x0A;- Destination type: &apos;com.banco.ContaCorrente&apos;&#x0A;- Declared visibility: &apos;protected&apos;" comments="false" description="Extract method &apos;imprimirInfosComuns&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.banco{ContaCorrente.java" name="imprimirInfosComuns" replace="false" selection="165 194" stamp="1722277434293" version="1.0" visibility="4"/>
+</session>
